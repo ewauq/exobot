@@ -40,6 +40,12 @@ exports.run = function(event, callback) {
     try {
 
         var func = require('../../libs/functions.js');
+        
+        /*
+        
+            C'est ici que votre code doit être exécuté.
+        
+        */
 
         // On choisit aléatoirement une réponse parmi celles disponibles dans
         // la variable "responses".
