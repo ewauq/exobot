@@ -26,7 +26,7 @@ var responses = [
 exports.triggers = triggers;
 
 /**
- * Retourne le lien de l'avatar de l'utilisateur mentionné.
+ * Retourne une réponses aléatoire parmi les phrases disponibles dans "responses".
  * @param  {object} event Contient toutes les informations du message reçu.
  * @param  {function} callback Callback contenant le message retourné.
  */
