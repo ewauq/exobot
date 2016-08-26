@@ -56,6 +56,8 @@ cd /chemin/de/exobot
 ```
 npm install discord.io
 ```
+- Ouvrez maintenant le fichier `config.json` ;
+- Remplacez `<bot_token_here>` par le *token* de votre Bot, puis enregistrez tout ;
 - Et enfin, lancez le bot :
 ```
 node run.js
