@@ -9,6 +9,7 @@ Documentation disponible :
  - [Les commandes (ajout, suppression...)](https://github.com/ewauq/exobot/wiki/Commandes)
  - [Les fonctions](https://github.com/ewauq/exobot/wiki/Fonctions)
  - [Les formats de réponses](https://github.com/ewauq/exobot/wiki/Formats-de-r%C3%A9ponses)
+ - [Documentation de Discord.io](https://izy521.gitbooks.io/discord-io/content/)
 
 ### Où héberger le Bot ?
 
