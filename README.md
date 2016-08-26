@@ -17,3 +17,5 @@ Libre à vous de choisir la méthode d'hébergement qui vous convient le mieux. 
 ## Comment ajouter des commandes ?
 
 Un fichier `example.js` est disponible dans le répertoire `commands`. Il constitue une bonne base pour le développement d'une commande simple impliquant un message de retour de la part du Bot.
+
+Vous trouverez une [documentation](https://github.com/ewauq/exobot/wiki/Commandes) complète sur l'ajout et le fonctionnement des commandes.
