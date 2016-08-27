@@ -23,6 +23,6 @@ Vous trouverez une [documentation](https://github.com/ewauq/exobot/wiki/Commande
 
 ### Mises à jour
 
-**Attention !** L'application ne sera pas ou peu mise à jour, pour une raison évidente : **il est difficilement possible de maintenir à jour des fichiers qui peuvent être modifiés sans écraser votre propre code.** Ce projet reste avant tout une base de développement pour la création de Bots. Elle n'a pas vocation à évoluer dans le temps.
+**Attention !** L'application ne sera pas ou peu mise à jour, pour une raison évidente : **il est difficilement possible de maintenir à jour des fichiers qui peuvent être modifiés sans écraser votre propre code.** Ce projet reste avant tout une base de développement pour la création de Bots. Il n'a pas vocation à évoluer dans le temps.
 
 Si toutefois vous souhaitez quand même mettre à jour Exobot, prenez soin de bien identifier les morceaux de code à conserver et à réintégrer à l'application après la mise à jour.
