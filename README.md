@@ -20,3 +20,9 @@ Libre à vous de choisir la méthode d'hébergement qui vous convient le mieux. 
 Un fichier `example.js` est disponible dans le répertoire `commands`. Il constitue une bonne base pour le développement d'une commande simple impliquant un message de retour de la part du Bot.
 
 Vous trouverez une [documentation](https://github.com/ewauq/exobot/wiki/Commandes) complète sur l'ajout et le fonctionnement des commandes.
+
+### Mises à jour
+
+**Attention !** L'application ne sera pas ou peu mise à jour, pour une raison évidente : **il est difficilement possible de maintenir à jour des fichiers qui peuvent être modifiés sans écraser votre propre code.** Ce projet reste avant tout une base de développement pour la création de Bots. Elle n'a pas vocation à évoluer dans le temps.
+
+Si toutefois vous souhaitez quand même mettre à jour Exobot, prenez soin de bien identifier les morceaux de code à conserver et à réintégrer à l'application après la mise à jour.
